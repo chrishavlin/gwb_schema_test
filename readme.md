@@ -7,6 +7,7 @@ Two steps in this test
 1. generate a static `pydantic` model of the WB schema via `datamodel-code-generator`
 2. use `yt_napari`'s `pydantic` to `magicgui` framework to run a widget
 
+The final output is missing some critical fields (see errors below), but those could be addressed with custom directives to the yt_napari widget conversion layer. 
 
 ## setup 
 
