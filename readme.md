@@ -4,8 +4,8 @@ testing out a GWB schema to python model pipeline
 
 Two steps in this test
 
-1. generate a static pydantic model of the WB schema via `datamodel-code-generator`
-2. use yt-napari's pydantic to magicgui framework to run a widget
+1. generate a static `pydantic` model of the WB schema via `datamodel-code-generator`
+2. use `yt_napari`'s `pydantic` to `magicgui` framework to run a widget
 
 
 ## setup 
