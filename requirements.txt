@@ -1,0 +1,4 @@
+datamodel-code-generator
+yt-napari
+pydantic
+magicgui
